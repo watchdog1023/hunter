@@ -1,10 +1,7 @@
 // The hunter application which can look for people
 // v 0.0.2.0.1a
-
 #include<iostream>
-
 #include<string>
-
 #include<fstream>
 #include<cstdio>
 #include<stdio.h>
