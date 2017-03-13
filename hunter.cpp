@@ -4,8 +4,11 @@
 #include<string>
 #include<fstream>
 #include<cstdio>
+//for sleep fuction
+#include <conio.h> 
+//C libs to use system function
 #include<stdio.h>
-#include<stdlib.h>  
+#include<stdlib.h>
 
 using namespace std;
 
